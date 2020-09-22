@@ -49,7 +49,6 @@ I am a Student, Programmer, Developer looking for opportunities in Android Devel
 <p>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ganesh-shinde-7782951a3/)
-[<img src = "https://img.shields.io/badge/email-%23E4405F.svg?&style=for-the-badge&logo=email&logoColor=white">](mailto:shindeg0304@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ganeshshinde23/)
 
 </p>
