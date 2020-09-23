@@ -43,7 +43,7 @@ I am a Student, Programmer, Developer looking for opportunities in Android Devel
 
 </details>
 
-<details open>
+<details>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p>
