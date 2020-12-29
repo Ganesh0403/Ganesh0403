@@ -52,7 +52,9 @@ I am a Student, Programmer, Developer looking for opportunities in Android Devel
 [<img src = "https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ganeshshinde23/)
 
 </p>
+</details>
 
+<details>
 <summary>👁️<b>Profile Views</b></summary>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh0403" alt="Ganesh" /> </p>
