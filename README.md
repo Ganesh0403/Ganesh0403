@@ -53,4 +53,8 @@ I am a Student, Programmer, Developer looking for opportunities in Android Devel
 
 </p>
 
+<summary>👁️<b>Profile Views</b></summary>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh0403" alt="Ganesh" /> </p>
+
 </details>
