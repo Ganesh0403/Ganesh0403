@@ -43,7 +43,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0403&layout=compact&theme=radical)
 </details>
 
-<details>
+<details open>
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p>
@@ -54,7 +54,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 </p>
 </details>
 
-<details>
+<details open>
 <summary>👁️<b>Visitors</b></summary>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh0403" alt="Ganesh" /> </p>
