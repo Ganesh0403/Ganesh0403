@@ -2,8 +2,8 @@
 
 I'm a Software Developer working and exploring various fields of Computer Science. Developed various projects in Android, Python and Machine learning. Always keen to seek opportunities which add value to society.
 
-- 💻 Working at <a target="_blank" href="https://www.druva.com/">Druva</a> as Software Engineer
-- 💻 Worked as R&D Intern at <a target="_blank" href="https://www.ptc.com/">PTC</a>
+- 💻 Working at <a href="https://www.druva.com/">Druva</a> as Software Engineer
+- 💻 Worked as R&D Intern at <a href="https://www.ptc.com/">PTC</a>
 - 🦸‍♂️ Worked as Android Tech Team member at [DSC PCCoE](https://github.com/dscpccoe)
 
 ---
@@ -14,7 +14,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 <br>
 
 <p align>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Ganesh0403">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Ganesh0403&show_icons=true&count_private=true&theme=radical">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0403&hide=css,js,html&theme=tokyonight"> -->
 </p>
 
@@ -40,7 +40,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavansh&layout=compact)](https://github.com/bhavansh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0403&layout=compact&theme=radical)](https://github.com/Ganesh0403/github-readme-stats)
 
 </details>
 
@@ -56,7 +56,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 </details>
 
 <details>
-<summary>👁️<b>Profile Views</b></summary>
+<summary>👁️<b>Visitors</b></summary>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ganesh0403" alt="Ganesh" /> </p>
 
