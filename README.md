@@ -40,8 +40,7 @@ I'm a Software Developer working and exploring various fields of Computer Scienc
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0403&layout=compact&theme=radical)](https://github.com/Ganesh0403/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh0403&layout=compact&theme=radical)
 </details>
 
 <details>
