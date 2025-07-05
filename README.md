@@ -2,7 +2,7 @@
 
 I'm a Software Developer working and exploring various fields of Computer Science. Developed various projects in Android, Python and Machine learning. Always keen to seek opportunities which add value to society.
 
-- 💻 Working at <a href="https://www.druva.com/">Druva</a> as Software Engineer
+- 💻 Working at <a href="https://www.druva.com/">Druva</a> as Staff Software Engineer
 - 💻 Worked as R&D Intern at <a href="https://www.ptc.com/">PTC</a>
 - 🦸‍♂️ Worked as Android Tech Team member at [DSC PCCoE](https://github.com/dscpccoe)
 
